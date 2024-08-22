@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.51cb47ac.css",
+    "main.js": "/static/js/main.763d9639.js",
+    "static/media/stanley-hotel-logo.png": "/static/media/stanley-hotel-logo.075a8893eb84ad8c3a99.png",
+    "index.html": "/index.html",
+    "main.51cb47ac.css.map": "/static/css/main.51cb47ac.css.map",
+    "main.763d9639.js.map": "/static/js/main.763d9639.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51cb47ac.css",
+    "static/js/main.763d9639.js"
+  ]
+}
